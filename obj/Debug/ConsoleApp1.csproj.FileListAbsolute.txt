@@ -1,0 +1,6 @@
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\emirt\source\repos\YazilimGelistirmeKampiOdevleri\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
